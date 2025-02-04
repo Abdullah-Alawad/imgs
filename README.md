@@ -1,2 +1,2 @@
-# imgs
-## resources repo
+# My Images
+> resources repo
